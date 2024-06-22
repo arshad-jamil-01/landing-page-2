@@ -1,15 +1,12 @@
 .imgbox{
-    background-image: url("https://images.pexels.com/photos/5756495/pexels-photo-5756495.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-image: url("https://images.pexels.com/photos/3760953/pexels-photo-3760953.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
     background-position: center;
     background-size: cover;
+   filter: grayscale(100%);
 }
 
 .rightbox{
     background-image: url("https://images.pexels.com/photos/3760953/pexels-photo-3760953.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
     background-position: center;
     background-size: cover;
-}
-
-.footer{
-    backdrop-filter: blur 10px;
 }
